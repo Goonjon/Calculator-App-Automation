@@ -1,4 +1,4 @@
-# Automation on Selenium-TestNG
+# Calculator App Automation
 ### Project Summary: This project automates calculator app testing using Appium and TestNG. The first task involves dynamically calculating a mathematical series, passed as a parameter, and verifying the result. The second task automates series calculations from a CSV file, handling complex expressions like 4π2^3, and asserting expected results using SoftAssert in TestNG. The project demonstrates effective automation of both basic and advanced calculations through a robust framework.
 
 ### Technologies I have used: 
